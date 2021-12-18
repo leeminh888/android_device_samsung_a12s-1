@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+DEVICE_PATH := device/samsung/a12s
+
 # Bootloader
 BOARD_VENDOR := samsung
 TARGET_SOC := exynos850
